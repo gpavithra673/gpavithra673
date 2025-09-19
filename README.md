@@ -8,9 +8,12 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# 👩🏻‍💻 LeetCode
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/flyhigh_0673/)
+## 👩🏻‍💻 LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/flyhigh_0673?theme=dark&font=Karma&ext=contest)](https://leetcode.com/YOUR_USERNAME/)
+
+
+## 🏅 My HackerRank Stats
+[![HackerRank Badges](https://hackerrank-badges.vercel.app/pavithra2346mk)](https://www.hackerrank.com/pavithra2346mk/)
 
 
 ### ✍️ Random Dev Quote
