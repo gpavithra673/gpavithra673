@@ -10,6 +10,8 @@
 
 # 👩🏻‍💻 LeetCode
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/flyhigh_0673/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/flyhigh_0673?theme=dark&font=Karma&ext=contest)](https://leetcode.com/YOUR_USERNAME/)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
